@@ -1,0 +1,4 @@
+Scrapy==2.4.1
+scrapy-scrapingbee==0.0.3
+scrapy-splash==0.7.2
+scrapy-xlsx==0.1.1
