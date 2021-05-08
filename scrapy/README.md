@@ -1,7 +1,7 @@
 # Run the scrapper.
 
 ## How To run the spiders
-1. Clone This Project `git clone https://github.com/dooww/django-school-supplies-shop`
+1. Clone This Project `git clone https://github.com/dooww/freelancing-repo/tree/master/scrapy`
 2. Go to Project Directory `cd scrapy`
 3. Create a Virtual Environment `virtualenv env`
 4. Activate Virtual Environment `source env/bin/activate`
